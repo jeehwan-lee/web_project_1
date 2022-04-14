@@ -13,4 +13,6 @@ pizza store shop
   - Menu page 에서 등록할 수 있도록 (Login 되었을시에만) 
   - Database(Mysql)
   - search (React filter)
+
+3. css study
   
